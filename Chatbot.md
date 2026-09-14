@@ -1,6 +1,6 @@
 # Lavex — Chatbot de production
 
-Chatbot en français permettant d'interroger en langage naturel les données de production stockées en base SQLite, via une architecture hybride NLU + LLM de secours.
+Chatbot en français permettant d'interroger en langage naturel les données de production stockées en base SQLite, via une architecture hybride NLU + LLM de secours.(avant de commencer, il faut changer l'url dans le code etl_lavex et gui_lavex) 
 
 ## Objectif
 
