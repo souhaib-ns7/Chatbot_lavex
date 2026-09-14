@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Base de données générée par l'ETL (contient des données de production)
+lavex_releves.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers d'IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
