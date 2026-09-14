@@ -32,7 +32,7 @@ except ImportError:
 load_dotenv()  # charge GROQ_API_KEY depuis le fichier .env
 
 
-DATA_SOURCE = "https://docs.google.com/spreadsheets/d/1vAxwpx_tVx6O9wdZqJcjaEnTIeawe6DIHfsD24-E1CQ/export?format=csv&gid=1031922911"
+DATA_SOURCE = "l'url de google sheet a ajoute"
 
 
 def get_reference_date() -> date:

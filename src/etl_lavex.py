@@ -6,7 +6,7 @@ import sys
 import pandas as pd
 import sqlite3
 
-EXCEL_PATH = sys.argv[1] if len(sys.argv) > 1 else "https://docs.google.com/spreadsheets/d/1vAxwpx_tVx6O9wdZqJcjaEnTIeawe6DIHfsD24-E1CQ/export?format=csv&gid=1031922911"
+EXCEL_PATH = sys.argv[1] if len(sys.argv) > 1 else "l'url de google sheet"
 DB_PATH = "lavex_releves.db"
 TABLE = "releves_production"
 
